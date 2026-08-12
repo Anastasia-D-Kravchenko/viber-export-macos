@@ -1,0 +1,14 @@
+# Never commit exported message data (these contain your private chats!)
+*.csv
+*.db
+*.db-wal
+*.db-shm
+viber_export.csv
+viber_plain.db
+
+# lldb / run logs
+*.log
+
+# macOS
+.DS_Store
+.AppleDouble
